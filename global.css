@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-preahvihear: Preahvihear;
+  --h6-16: Inter;
+
+  /* font sizes */
+  --h3-24-size: 24px;
+  --font-size-xl: 20px;
+  --font-size-43xl: 62px;
+  --font-size-29xl: 48px;
+  --font-size-21xl: 40px;
+  --font-size-109xl: 128px;
+  --font-size-53xl: 72px;
+  --h2-32-size: 32px;
+  --font-size-9xl: 28px;
+  --font-size-10xl: 29px;
+  --font-size-mini-6: 14.6px;
+  --font-size-base-6: 15.6px;
+  --h6-16-size: 16px;
+  --paragraph-progress-15-size: 15px;
+  --h4-18-size: 18px;
+  --font-size-xs: 12px;
+  --font-size-smi: 13px;
+  --font-size-2xs: 11px;
+
+  /* Colors */
+  --white-font: #fafafa;
+  --color-gray-100: #868490;
+  --paragraph-font: #767676;
+  --black: #2b2b2b;
+  --color-gray-200: rgba(0, 0, 0, 0.81);
+  --color-gray-300: rgba(0, 0, 0, 0.5);
+  --color-gray-400: rgba(255, 255, 255, 0.12);
+  --color-gray-500: rgba(9, 20, 39, 0.8);
+  --color-gray-600: rgba(9, 20, 39, 0.6);
+  --color-gray-700: rgba(16, 27, 46, 0.3);
+  --color-palegoldenrod: #f8e7a1;
+  --color-gold: #ffc807;
+  --white: #fff;
+  --color-goldenrod: #fcc128;
+  --color-black: #000;
+  --background: #f0f0f6;
+  --yellow: #ffb400;
+  --color-orange-100: rgba(255, 180, 0, 0.8);
+  --available: #7eb942;
+  --color-lime: rgba(5, 255, 0, 0.8);
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-5xl: 24px;
+  --gap-13xl: 32px;
+  --gap-xs: 12px;
+
+  /* Paddings */
+  --padding-3xs-7: 9.7px;
+  --padding-10xl-2: 29.2px;
+
+  /* Border radiuses */
+  --br-17xl: 36px;
+  --br-xs: 12px;
+  --br-lg: 18px;
+  --br-7xs: 6px;
+  --br-8xl: 27px;
+  --br-16xl: 35px;
+  --br-8xs-9: 4.9px;
+  --br-19xl: 38px;
+  --br-3xl: 22px;
+  --br-41xl: 60px;
+  --br-11xl: 30px;
+}
